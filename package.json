@@ -1,0 +1,28 @@
+{
+  "name": "silk-paper",
+  "version": "1.0.0",
+  "description": "Generate REST Documentation based on the OpenApi specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbenavidesv/silk-paper.git"
+  },
+  "keywords": [
+    "docs",
+    "silk",
+    "paper",
+    "rest"
+  ],
+  "author": "Wolox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbenavidesv/silk-paper/issues"
+  },
+  "homepage": "https://github.com/dbenavidesv/silk-paper#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
